@@ -1,0 +1,40 @@
+{
+    "skills": {
+        "Mente (Estudos/Foco)": 0,
+        "Corpo (Saúde/Exercício)": 0,
+        "Alma (Criatividade/Lazer)": 0,
+        "Ordem (Organização/Casa)": 0
+    },
+    "tasks": [
+        {
+            "title": "Banco de Dados",
+            "desc": "PDF ",
+            "skill": "Mente (Estudos/Foco)",
+            "deadline": "27/05"
+        },
+        {
+            "title": "Sistema Operacional",
+            "desc": "PDF",
+            "skill": "Mente (Estudos/Foco)",
+            "deadline": "27/05"
+        },
+        {
+            "title": "Etica",
+            "desc": "PDF",
+            "skill": "Mente (Estudos/Foco)",
+            "deadline": "27/05"
+        },
+        {
+            "title": "Libras",
+            "desc": "PDF",
+            "skill": "Mente (Estudos/Foco)",
+            "deadline": "27/05"
+        },
+        {
+            "title": "Revisar",
+            "desc": "Todas as materias",
+            "skill": "Mente (Estudos/Foco)",
+            "deadline": "27/05 10:00"
+        }
+    ]
+}
